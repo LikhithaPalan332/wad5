@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<users>
+<user>
+<name> Ajay </name>
+<role> Student </role>
+<dept> CSE </dept>
+<email> ajayx@gmail.com </email>
+</user>
+<user>
+<name> Vijay </name>
+<role> Student </role>
+<dept> CSE </dept>
+<email> vijay123@gmail.com </email>
+</user>
+<user>
+<name> Aditi </name>
+<role> Faculty </role>
+<dept> EECE </dept>
+<email> aditisharma@gmail.com </email>
+</user>
+<user>
+<name> Ravi </name>
+<role> Faculty </role>
+<dept> MECH </dept>
+<email> ravi33@gmail.com </email>
+</user>
+<user>
+<name> Sanjana </name>
+<role> Student </role>
+<dept> CSE </dept>
+<email> sanjanax@gmail.com </email>
+</user>
+<user>
+<name> Kavita </name>
+<role> Faculty </role>
+<dept> CIVIL </dept>
+<email> kavita312@gmail.com </email>
+</user>
+<user>
+<name> Sandhya </name>
+<role> Faculty</role>
+<dept> EECE </dept>
+<email> sandhya43@gmail.com </email>
+</user>
+<user>
+<name> Rahul</name>
+<role> Student </role>
+<dept> EECE </dept>
+<email> rahulx@gmail.com </email>
+</user>
+<user>
+<name> Rithka </name>
+<role> Student </role>
+<dept> MECH </dept>
+<email> rithika412@gmail.com </email>
+</user>
+<user>
+<name> Ramesh </name>
+<role> Faculty </role>
+<dept> MECH </dept>
+<email> rameshnaidu@gmail.com </email>
+</user>
+</users>
